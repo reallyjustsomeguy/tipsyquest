@@ -37,5 +37,6 @@ Download the ZIP file here and extract into the Assets folder of your Unity proj
 
 https://github.com/reallyjustsomeguy/tipsyquest/releases
 
-
+------------------
+# Made in Amplify Shader Editor
 ![alt text](https://raw.githubusercontent.com/reallyjustsomeguy/tipsyquest/refs/heads/main/TipsyQuest%20Amplify.png?raw=true)
