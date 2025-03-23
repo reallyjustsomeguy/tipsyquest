@@ -7,6 +7,11 @@ TipsyQuest Shader is my creation of a Drunk Effect Shader for VRChat, born out o
 
 ------------------
 
+# Demo World
+https://vrchat.com/home/world/wrld_9b100b09-ec37-4268-acf7-3fb6ad2569ee/info
+
+------------------
+
 # What Does it Do?
 Screen distortion effects of waves, tilting, zooming, and Chromatic Aberration. All with multiple strength and speed controls.
 Texture and Color overlay options, with scrolling, distortion, etc. to personalize for drink variants (like floating bubbles texture, frost, stars, etc...)
