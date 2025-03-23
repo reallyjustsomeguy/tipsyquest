@@ -1,7 +1,6 @@
 # TipsyQuest Drunk Shader
 
 # What is it? 
-------------------
 TipsyQuest Shader is my creation of a Drunk Effect Shader for VRChat, born out of necessity because there wasn't an existing shader out there that was Free, Fully Featured, Easy to Implement, and most importantly that was QUEST COMPATIBLE!
 
 # What Does it Do?
