@@ -1,4 +1,5 @@
-# TipsyQuest - Quest Compatible Drunk Effect Shader for VRChat
+# TipsyQuest
+# Quest Compatible Drunk Effect Shader for VRChat
 
 ------------------
 
