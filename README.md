@@ -32,5 +32,6 @@ While the shader provided here is free, a ready-to-go drink system using it can 
 
 ------------------
 
-# Download from here:
+# Download
+Download the ZIP file here and extract into the Assets folder of your Unity project...
 https://github.com/reallyjustsomeguy/tipsyquest/releases
