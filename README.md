@@ -28,7 +28,7 @@ github.com/reallyjustsomeguy/tipsyquest
 ------------------
 
 # But I dunno how to do that...
-While the shader provided here is free, a ready-to-go drink system using it can be purchased from my friend ValenVRC at:
+While the shader provided here is free, a ready-to-go drink system using it can be purchased from my friend ValenVRC at: https://valenvrc.gumroad.com/l/AlcoholSystem
 
 ------------------
 
