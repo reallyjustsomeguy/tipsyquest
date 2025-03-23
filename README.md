@@ -36,3 +36,6 @@ While the shader provided here is free, a ready-to-go drink system using it can 
 Download the ZIP file here and extract into the Assets folder of your Unity project...
 
 https://github.com/reallyjustsomeguy/tipsyquest/releases
+
+
+![alt text](https://raw.githubusercontent.com/reallyjustsomeguy/tipsyquest/refs/heads/main/TipsyQuest%20Amplify.png?raw=true)
