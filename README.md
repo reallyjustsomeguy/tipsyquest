@@ -14,9 +14,13 @@ https://vrchat.com/home/world/wrld_9b100b09-ec37-4268-acf7-3fb6ad2569ee/info
 
 # What Does it Do?
 Screen distortion effects of waves, tilting, zooming, and Chromatic Aberration. All with multiple strength and speed controls.
+
 Texture and Color overlay options, with scrolling, distortion, etc. to personalize for drink variants (like floating bubbles texture, frost, stars, etc...)
+
 "Eye Closing" slider overlay from top and bottom of screen for scriptable blinking or blacking-out from too much...
+
 After they're set, all effects can simply be faded-in by a udon script at the same time by only increasing the _Opacity value.
+
 Comes in an optimized hard-coded version, and an easy to edit visual node version made in and editable with Amplify Shader Editor from the Unity store.
 
 ------------------
